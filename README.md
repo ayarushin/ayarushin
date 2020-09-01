@@ -2,7 +2,7 @@
 - Email: [Gmail](mailto:yarushin.dev@gmail.com?subject=[GitHub]%20Replay)
 - Linkedin: [https://www.linkedin.com/in/yarushin](https://www.linkedin.com/in/yarushin/)
 
-### :punch: Codewars
+### :punch: [Codewars](https://www.codewars.com/users/yarushin)
 ![](https://www.codewars.com/users/yarushin/badges/large)
 
 ### ✨ Open Source Work Stats:
