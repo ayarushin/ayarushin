@@ -6,7 +6,7 @@
 [![](https://www.codewars.com/users/yarushin/badges/large)](https://www.codewars.com/users/yarushin)
 
 ### ✨ Open Source Work Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayarushin&show_icons=true&theme=gruvbox) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayarushin&layout=compact&theme=gruvbox) 
+![](https://github-readme-stats.vercel.app/api?username=ayarushin&show_icons=true&theme=radical) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayarushin&layout=compact&theme=radical) 
 
 <!--
 **ayarushin/ayarushin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
