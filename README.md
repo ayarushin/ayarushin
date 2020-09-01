@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### 📫 How to reach me:
 - Email: [Gmail](mailto:yarushin.dev@gmail.com?subject=[GitHub]%20Replay)
 - Linkedin: [https://www.linkedin.com/in/yarushin](https://www.linkedin.com/in/yarushin/)
